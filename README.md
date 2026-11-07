@@ -103,3 +103,9 @@ Para este caso:
 El programa también será probado con otros valores, incluyendo datos inválidos y valores repetidos.
 
 ---
+
+PROGRAMA MIO
+
+   Inicializamos el Scanner sc, lo usamos para leercantidad que dentro de esto usamos un dowhile y if para que no se pueda ingresar valores menores que cero y la cantidad la utilizamos para el arreglo de cargasKg, luego se utiliza un metodo como boolean para definir las cargas validas, otro metodo para pedir los pesos de las cargas utilizando scanner, y dowhile, if, y utilizamos el metodo de pesos validos....
+
+   no me dejo terminar mi explicación
